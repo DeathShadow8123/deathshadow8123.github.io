@@ -1,6 +1,6 @@
 /* Hero Section Style*/
 .hero-section {
-    background-image: url(http://shadowmc.ezyro.com/images/backgrounds/minecraft-bg.jpg);
+    background-image: url(minecraft-bg.jpg);
     padding: 100px;
     height: 300px;
     background-attachment: fixed;
@@ -29,7 +29,7 @@
 /* Feature Section Styles */
 .features-section {
     height: 400px;
-    background-image: url(http://shadowmc.ezyro.com/images/backgrounds/tile-art.jpg);
+    background-image: url(tile-art.jpg);
     background-size:  cover;
     background-repeat: no-repeat;
     background-color: #cea135;
